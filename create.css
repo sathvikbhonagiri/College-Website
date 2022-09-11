@@ -268,7 +268,7 @@ nav ul
 }
 li.topnav-right 
 { list-style:none;
-  float: left;
+  float: right;
 }
 .topnav-left li a
 { color:white;
